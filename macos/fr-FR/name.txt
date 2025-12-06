@@ -1,1 +1,1 @@
-Monal — XMPP Chatting
+Monal — Chat avec XMPP
