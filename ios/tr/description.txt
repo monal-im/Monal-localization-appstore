@@ -1,6 +1,6 @@
 Kimsenin kontrol etmediği veya sahip olmadığı ücretsiz bir kamu sohbet ağı olan XMPP'ye girmek için daha iyi bir zaman olamazdı. Monal, XMPP'yi kullanmanın hızlı ve kullanıcı dostu bir yoludur. Uygulamayı indirin, giriş yapın veya kaydolun ve dakikalar içinde sohbet etmeye hazır olun. Diğer uygulamalar gibi görünür ve çalışır. Bu nedenle “XMPP'yi öğrenmenize” veya ne olduğunu umursamanıza gerek yoktur.
-Önemli özellikler:
 
+Önemli özellikler:
 - Açık kaynak
 - Reklam yok! Gizliliğe büyük önem verilir. Ana sunucuyla bağlantı kurmaz ve yazılım “metrikleri” yoktur. 
 - Kişisel bilgileri okumaz.
