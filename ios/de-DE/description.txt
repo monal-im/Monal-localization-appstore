@@ -1,4 +1,4 @@
-Es gab noch nie einen besseren Zeitpunkt, um in XMPP einzusteigen, ein kostenloses öffentliches Chat-Netzwerk, das niemand kontrolliert oder besitzt. Monal ist ein schneller und benutzerfreundlicher Weg zur Nutzung von XMPP. Lade einfach die App herunter, melde dich an oder registriere dich, und schon kannst du in wenigen Minuten chatten.
+Es gab noch nie einen besseren Zeitpunkt, um in XMPP einzusteigen, ein kostenloses öffentliches Chat-Netzwerk, das niemand kontrolliert oder besitzt. Monal ist ein schneller und benutzerfreundlicher Weg zur Nutzung von XMPP. Lade einfach die App herunter, melde dich an oder registriere dich, und schon kannst du in wenigen Minuten chatten. Die App sieht aus und funktioniert wie andere Apps auch, sodass du weder „XMPP lernen“ musst noch dich darum kümmern musst, was das überhaupt ist.
 
 Wesentliche Merkmale:
 - Open Source
