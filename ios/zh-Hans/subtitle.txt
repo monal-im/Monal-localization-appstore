@@ -1,1 +1,1 @@
-Open source XMPP Messenger
+开源 XMPP 即时通讯软件
