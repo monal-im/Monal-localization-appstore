@@ -1,1 +1,1 @@
-XMPP chatovací aplikace s otevřeným zdrojovým kódem
+XMPP klient
