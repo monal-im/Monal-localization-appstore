@@ -1,16 +1,16 @@
-There has never been a better time to get into XMPP, a free public chat network no one controls or owns. Monal is a fast and user friendly way to use XMPP. Just download the app,  login or register and you are ready to chat in minutes. It looks and works the way other apps do, so there is no need to “learn XMPP” or even care what it is.
+Não existe momento melhor para ingressar no XMPP, uma rede pública e livre de conversas que ninguém controla ou detém. Monal é uma forma rápida e amigável de usar XMPP. Faça o download do app, faça login ou registre-se e você estará pronto para se comunicar em minutos. Parece e funciona bem da forma que outros aplicativos fazem, portanto não há necessidade de "aprender XMPP" ou mesmo se preocupar com o que isso significa.
 
-Notable features:
+Características notáveis:
 - Open Source
-- No Ads! Strong focus on privacy. Does not phone home and does not have software "metrics" 
-- Does not read any personal information
-- With a direct connection to your server, your password and all other info are never sent to a third-party
-- OMEMO encrypted chat
-- Will work with corporate XMPP servers that require VPN
-- Multi user chat (MUC) support for group chats
-- Audio/Video calls
+- Sem publicidades! Foco em privacidade. Não são coletadas métricas dos usuários
+- Não coleta nenhuma informação pessoal
+- Conexão direta com seu servidor, suas credenciais e metadados nunca são compartilhados
+- Criptografia ponta a ponta com OMEMO
+- Funciona com servidores XMPP corporativos que demandam uso de VPN
+- Suporte a Multi user chat (MUC)
+- Chamadas de Áudio/Vídeo
 
-Implements certain XMPP extensions intended to improve mobile communication:
+Implementa algumas extensões XMPP que melhoram a experiência de comunicação:
 - XEP-0357: Push Notifications
 - XEP-0280: Message Carbons keep messages in synch between clients
 - XEP-0198: Stream Management to quickly reconnect
