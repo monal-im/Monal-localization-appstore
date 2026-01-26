@@ -1,20 +1,20 @@
-There has never been a better time to get into XMPP, a free public chat network no one controls or owns. Monal is a fast and user friendly way to use XMPP. Just download the app,  login or register and you are ready to chat in minutes. It looks and works the way other apps do, so there is no need to “learn XMPP” or even care what it is.
+Ποτέ δεν υπήρξε καλύτερη στιγμή για να ξεκινήσετε με το XMPP, ένα δωρεάν δημόσιο δίκτυο συνομιλίας που δεν ελέγχεται ούτε ανήκει σε κανέναν. Το Monal είναι ένας γρήγορος και φιλικός προς τον χρήστη τρόπος για να χρησιμοποιήσετε το XMPP. Απλά κατεβάστε την εφαρμογή,  συνδεθείτε ή εγγραφείτε και είστε έτοιμοι να συνομιλήσετε σε λίγα λεπτά. Μοιάζει και λειτουργεί όπως και άλλες εφαρμογές, οπότε δεν χρειάζεται να "μάθετε το XMPP" ή να ενδιαφερθείτε για το τι είναι.
 
-Notable features:
-- Open Source
-- No Ads! Strong focus on privacy. Does not phone home and does not have software "metrics" 
-- Does not read any personal information
-- With a direct connection to your server, your password and all other info are never sent to a third-party
-- OMEMO encrypted chat
-- Will work with corporate XMPP servers that require VPN
-- Multi user chat (MUC) support for group chats
-- Audio/Video calls
+Αξιοσημείωτα χαρακτηριστικά:
+- Ανοιχτός κώδικας
+- Χωρίς διαφημίσεις! Ιδιαίτερη έμφαση στην προστασία της ιδιωτικής ζωής. Δεν επικοινωνεί με τον κατασκευαστή και δεν διαθέτει «μετρήσεις» λογισμικού
+- Δεν διαβάζει προσωπικές πληροφορίες
+- Με άμεση σύνδεση με τον διακομιστή σας, ο κωδικός πρόσβασής σας και όλες οι άλλες πληροφορίες δεν αποστέλλονται ποτέ σε τρίτους
+- Κρυπτογραφημένη συνομιλία OMEMO
+- Λειτουργεί με εταιρικούς διακομιστές XMPP που απαιτούν VPN
+- Υποστήριξη συνομιλίας πολλαπλών χρηστών (MUC) για ομαδικές συνομιλίες
+- Κλήσεις ήχου/βίντεο
 
-Implements certain XMPP extensions intended to improve mobile communication:
-- XEP-0357: Push Notifications
-- XEP-0280: Message Carbons keep messages in synch between clients
-- XEP-0198: Stream Management to quickly reconnect
-- XEP-0199: XMPP Ping to maintain connections
-- XEP-0313: Message Archive Management to download chat history
-- XEP-0352: Client State Indication for dramatic reduction on power use
-- XEP-0363: HTTP File Upload to send images in conversations
+Εφαρμόζει ορισμένες επεκτάσεις XMPP που αποσκοπούν στη βελτίωση της κινητής επικοινωνίας:
+- XEP-0357: Ειδοποιήσεις push
+- XEP-0280: Τα Message Carbons διατηρούν τα μηνύματα συγχρονισμένα μεταξύ των πελατών
+- XEP-0198: Διαχείριση ροής για γρήγορη επανασύνδεση
+- XEP-0199: XMPP Ping για τη διατήρηση των συνδέσεων
+- XEP-0313: Διαχείριση αρχείου μηνυμάτων για τη λήψη του ιστορικού συνομιλιών
+- XEP-0352: Ένδειξη κατάστασης πελάτη για δραστική μείωση της κατανάλωσης ενέργειας
+- XEP-0363: Μεταφόρτωση αρχείων HTTP για την αποστολή εικόνων σε συνομιλίες
