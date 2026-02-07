@@ -1,1 +1,1 @@
-Open source XMPP Messenger
+XMPP-mess i öppen källkod
