@@ -1,4 +1,4 @@
-Er is nooit een betere tijd geweest om XMPP te gaan gebruiken, een open netwerk dat door niemand wordt gecontroleerd noch beheerd. Monal is een snelle en gebruiksvriendelijke manier om XMPP te gebruiken. Download de app,  log in of registreer en binnen een paar minuten ben je klaar om te chatten. Het werkt en ziet eruit als andere apps, dus er is geen reden om "XMPP te leren" of zelfs moeite te doen om te weten wat het is.
+Er is nooit een betere tijd geweest om XMPP te gaan gebruiken, een open netwerk dat door niemand wordt bestuurd noch beheerd. Monal is een snelle en gebruiksvriendelijke manier om XMPP te gebruiken. Download de app,  log in of registreer en binnen een paar minuten ben je klaar om te chatten. Het werkt en ziet eruit als andere apps, dus er is geen reden om "XMPP te leren" of zelfs moeite te doen om te weten wat het is.
 
 Opvallende kenmerken:
 - Open broncode
