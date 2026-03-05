@@ -5,7 +5,7 @@ Características más notables:
 - Sin publicidad! Fuerte foco en la privacidad. No envía información de uso ni "métricas" 
 - No recaba ningún tipo de información personal
 - Con conexión directa al servidor, su contraseña y el resto de la información nunca se envían a terceros
-- Chat encriptado con OMEMO
+- Chat cifrado con OMEMO
 - Funciona con servidores corporativos de XMPP que requieren una VPN
 - Soporta chat multi usuario (MUC - Multi User Chat) para chats en grupo
 - Llamadas de Audio y Video
