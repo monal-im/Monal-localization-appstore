@@ -1,1 +1,1 @@
-Monal — XMPP Chat
+Monal — XMPP協定聊天應用程式
