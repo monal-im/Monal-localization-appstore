@@ -8,7 +8,6 @@ Najważniejsze cechy:
 - Szyfrowany czat OMEMO
 - Współpraca z korporacyjnymi serwerami XMPP wymagającymi VPN
 - Obsługa czatów grupowych (MUC)
-- Połączenia audio/wideo
 
 Wdraża pewne rozszerzenia XMPP mające na celu poprawę komunikacji mobilnej:
 - XEP-0357: Powiadomienia push

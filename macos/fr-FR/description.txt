@@ -8,7 +8,6 @@ Fonctionnalités notables :
 - Discussions chiffrées avec OMEMO
 - Fonctionne avec les serveurs XMPP d’entreprises qui nécessitent un VPN
 - Chat multi-utilisateur·ice·s grâce à MUC
-- Appels audio/video
 
 Implémente certaines extensions XMPP pour améliorer les communications mobiles :
 - XEP-0357 : Push Notifications, pour avoir des notifications même quand l’application est fermée

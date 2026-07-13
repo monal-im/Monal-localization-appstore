@@ -8,7 +8,6 @@ Caratteristiche principali:
 - Chat crittografata OMEMO
 - Funzionerà con server XMPP aziendali che richiedono VPN
 - Supporto multi chat utente (MUC) per chat di gruppo
-- Chiamate audio/video
 
 Implementa alcune estensioni XMPP destinate a migliorare la comunicazione mobile:
 - XEP-0357: notifiche push
