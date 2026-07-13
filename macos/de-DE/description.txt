@@ -8,7 +8,6 @@ Wesentliche Merkmale:
 - OMEMO verschlüsselter Chat
 - Funktioniert mit XMPP-Servern von Unternehmen, die VPN erfordern
 - Mehrbenutzer-Chats in Gruppen oder Channels
-- Audio/Video-Anrufe
 
 Implementiert bestimmte XMPP-Erweiterungen, um die mobile Kommunikation zu verbessern.
 - XEP-0357: Push-Benachrichtigungen

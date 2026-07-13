@@ -8,7 +8,6 @@ Opvallende kenmerken:
 - OMEMO-versleutelde chat
 - Werkt met bedrijfs-XMPP-servers die een VPN vereisen.
 - Groepchat support (MUC)
-- audio-/videobellen
 
 Implementeert verschillende XMPP extensies bedoeld om mobiele communicatie te bevorderen
 - XEP-0357: Pushmeldingen
