@@ -11,7 +11,6 @@ Soporta chat multiusuario (MUC, Multi-User Chat) para chats grupales.
 Llamadas de audio y video.
 
 Implementa ciertas extensiones XMPP destinadas a mejorar la comunicación móvil:
-
 XEP-0357: Notificaciones push
 XEP-0280: Copias sincronizadas de mensajes entre clientes
 XEP-0198: Gestión de flujo para reconexiones rápidas
