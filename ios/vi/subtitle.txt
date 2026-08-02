@@ -1,1 +1,1 @@
-Open source XMPP Messenger
+Ứng dụng XMPP mã nguồn mở
