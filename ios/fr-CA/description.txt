@@ -1,20 +1,20 @@
-Il n’y a jamais eu de meilleur moment pour commencer à utiliser XMPP, un réseau public de clavardage libre que personne ne contrôle ni ne possède. Monal est une façon rapide et conviviale d’utiliser XMPP. Il suffit de télécharger l’application, de se connecter ou de s’inscrire, et vous êtes prêt à discuter en quelques minutes. Son apparence et son fonctionnement sont semblables à ceux des autres applications, il n’est donc pas nécessaire « d’apprendre XMPP » ni même de se soucier de ce que c’est.
+C’est le meilleur moment pour découvrir XMPP, un réseau de clavardage public, libre et décentralisé, que personne ne contrôle ni ne possède. Monal est une façon rapide et conviviale d’utiliser XMPP. Il suffit de télécharger l’application, de se connecter ou de créer un compte, et vous pourrez discuter en quelques minutes. L’application ressemble aux autres applications de messagerie et fonctionne de la même manière : il n’est donc pas nécessaire « d’apprendre XMPP » ni même de savoir ce que c’est.
 
 Fonctionnalités principales :
-Code source ouvert
-Aucune publicité ! Grande importance accordée à la protection de la vie privée. N’envoie pas de données aux développeurs et n’utilise pas de « métriques » logicielles.
-Ne lit aucune information personnelle.
-Avec une connexion directe à votre serveur, votre mot de passe et toutes les autres informations ne sont jamais envoyés à un tiers.
-Clavardage chiffré avec OMEMO.
-Fonctionne avec les serveurs XMPP d’entreprise nécessitant un VPN.
-Prise en charge du clavardage multiutilisateur (MUC) pour les conversations de groupe.
-Appels audio et vidéo.
+-Open source
+-Aucune publicité ! Un fort accent est mis sur la confidentialité. L’application ne communique pas avec un serveur externe à votre insu et ne recueille aucune « métrique » d’utilisation.
+-Ne lit aucune information personnelle
+-Grâce à une connexion directe à votre serveur, votre mot de passe et toutes vos autres informations ne sont jamais envoyés à un tiers.
+-Clavardage chiffré avec OMEMO
+-Fonctionne avec les serveurs XMPP d’entreprise qui nécessitent un VPN
+-Prise en charge des conversations à plusieurs utilisateurs (MUC) pour les discussions de groupe
+-Appels audio/vidéo
 
 Implémente certaines extensions XMPP destinées à améliorer les communications mobiles :
-XEP-0357 : Notifications push.
-XEP-0280 : Message Carbons pour garder les messages synchronisés entre les clients.
-XEP-0198 : Stream Management pour se reconnecter rapidement.
-XEP-0199 : XMPP Ping pour maintenir les connexions.
-XEP-0313 : Message Archive Management pour télécharger l’historique des conversations.
-XEP-0352 : Client State Indication pour une réduction importante de la consommation d’énergie.
-XEP-0363 : HTTP File Upload pour envoyer des images dans les conversations
+-XEP-0357 : Notifications push
+-XEP-0280 : Message Carbons, pour garder les messages synchronisés entre les clients
+-XEP-0198 : Stream Management, pour se reconnecter rapidement
+-XEP-0199 : XMPP Ping, pour maintenir les connexions
+-XEP-0313 : Message Archive Management, pour télécharger l’historique des conversations
+-XEP-0352 : Client State Indication, pour réduire considérablement la consommation d’énergie
+-XEP-0363 : HTTP File Upload, pour envoyer des images dans les conversations
