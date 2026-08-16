@@ -1,1 +1,1 @@
-שליח XMPP בקוד פתוח
+Open source XMPP Messenger
