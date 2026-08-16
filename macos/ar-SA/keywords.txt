@@ -1,1 +1,1 @@
-xmpp, jabber, دردشة, مراسلة فورية, مراسلة, ejabberd, Prosody, OMEMO
+xmpp, jabber, chat, instant messaging, messaging, ejabberd, prosody, OMEMO
