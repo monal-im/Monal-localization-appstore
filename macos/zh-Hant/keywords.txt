@@ -1,1 +1,1 @@
-XMPP、Jabber、聊天、即時通訊、訊息傳遞、ejabberd、Prosody、OMEMO
+xmpp, jabber, chat, instant messaging, messaging, ejabberd, prosody, OMEMO
