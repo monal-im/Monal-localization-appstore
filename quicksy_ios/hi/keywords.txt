@@ -1,1 +1,1 @@
-एक्सएमपीपी (XMPP), जैबर (Jabber), चैट, तत्काल संदेश सेवा, संदेश सेवा, ejabberd, Prosody, OMEMO
+xmpp, jabber, chat, instant messaging, messaging, ejabberd, prosody, OMEMO
