@@ -1,1 +1,1 @@
-Pemesejan XMPP sumber terbuka
+Open source XMPP Messenger
