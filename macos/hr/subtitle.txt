@@ -1,1 +1,1 @@
-XMPP glasnik otvorenog koda
+Open source XMPP Messenger
