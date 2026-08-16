@@ -1,8 +1,8 @@
-Nunca hi ha hagut un moment millor per començar a utilitzar XMPP, una xarxa pública de xat gratuïta que ningú controla ni posseeix. Monal és una manera ràpida i fàcil d'utilitzar XMPP. Només cal descarregar l'aplicació, iniciar sessió o registrar-se i ja estaràs preparat per xatejar en qüestió de minuts. Té l'aspecte i funciona com altres aplicacions, per la qual cosa no cal «aprendre XMPP» ni tan sols saber què és.
+No hi ha hagut mai un moment millor per començar a utilitzar XMPP, una xarxa pública de xat gratuïta que ningú controla ni posseeix. Monal és una manera ràpida i fàcil d'utilitzar XMPP. Només cal descarregar l'aplicació, iniciar sessió o registrar-se i ja estaràs preparat per xatejar en qüestió de minuts. Té l'aspecte i funciona com altres aplicacions, de manera que no cal «aprendre XMPP» ni tan sols preocupar-se per què és.
 
 Característiques destacades:
 -Codi font obert
--Sense anuncis! Gran enfocament en la privadesa. No envia dades a cap servidor extern i no inclou «mètriques» de programari.
+-Sense anuncis! Gran enfocament en la privadesa. No envia dades a cap servidor extern ni disposa de «mètriques» de programari.
 -No llegeix cap informació personal.
 -Amb una connexió directa amb el teu servidor, la teva contrasenya i tota la resta d'informació no s'envien mai a tercers.
 -Xat xifrat amb OMEMO.
