@@ -1,1 +1,1 @@
-Nyílt XMPP üzenetküldő
+Open source XMPP Messenger
