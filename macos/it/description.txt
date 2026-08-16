@@ -1,20 +1,20 @@
-Non c'è mai stato momento migliore per avvicinarsi a XMPP, una rete di chat pubblica e gratuita che nessuno controlla né possiede. Monal è un modo veloce e intuitivo per utilizzare XMPP. Basta scaricare l'app, effettuare l'accesso o registrarsi e in pochi minuti si è pronti a chattare. Ha un aspetto e un funzionamento simili a quelli delle altre app, quindi non è necessario «imparare XMPP» e nemmeno sapere che cosa sia.
+Non c'è mai stato un momento migliore di unirsi a XMPP, una rete di chat pubblica e libera che nessuno controlla o possiede. Monal è un modo rapido e facile di usare XMPP. Basta scaricare l'app, accedere o registrarsi e si è pronti a chattare in pochi minuti. Si presenta e funziona nel modo in cui fanno le altre app, quindi non c'è bisogno di "imparare XMPP" o di preoccuparsi di cosa sia.
 
 Caratteristiche principali:
--Open Source
--Nessuna pubblicità! Grande attenzione alla privacy. Non comunica con server esterni per inviare dati e non dispone di «metriche» software.
--Non legge alcuna informazione personale.
--Grazie alla connessione diretta al proprio server, la password e tutte le altre informazioni non vengono mai inviate a terze parti.
--Chat con crittografia OMEMO.
--Funziona con server XMPP aziendali che richiedono una VPN.
--Supporto alle chat multiutente (MUC) per le conversazioni di gruppo.
--Chiamate audio/video.
+- Open Source
+- Niente pubblicità! Forte attenzione alla privacy. Non contatta "casa" e non ha "metriche" software
+- Non legge alcuna informazione personale
+- Con una connessione diretta al server, la password e tutte le altre informazioni non vengono mai inviate a terzi
+- Chat crittografata OMEMO
+- Funzionerà con server XMPP aziendali che richiedono VPN
+- Supporto multi chat utente (MUC) per chat di gruppo
+- Chiamate audio/video
 
-Implementa alcune estensioni XMPP pensate per migliorare la comunicazione sui dispositivi mobili:
--XEP-0357: notifiche push.
--XEP-0280: i Message Carbons mantengono sincronizzati i messaggi tra i vari client.
--XEP-0198: Stream Management per riconnettersi rapidamente.
--XEP-0199: XMPP Ping per mantenere attive le connessioni.
--XEP-0313: Message Archive Management per scaricare la cronologia delle chat.
--XEP-0352: Client State Indication per ridurre drasticamente il consumo energetico.
--XEP-0363: HTTP File Upload per inviare immagini nelle conversazioni
+Implementa alcune estensioni XMPP destinate a migliorare la comunicazione mobile:
+- XEP-0357: notifiche push
+- XEP-0280: Messaggi in copia conoscenza mantengono i messaggi in sincronia tra i client
+- XEP-0198: Gestione del flusso per riconnettere rapidamente
+- XEP-0199: Ping XMPP per mantenere le connessioni
+- XEP-0313: Gestione dell'archivio dei messaggi per scaricare la cronologia delle chat
+- XEP-0352: Indicazione di stato del client per una drastica riduzione dell'uso di batteria
+- XEP-0363: Carica file HTTP per inviare immagini nelle conversazioni
