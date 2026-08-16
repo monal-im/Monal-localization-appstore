@@ -1,20 +1,20 @@
-**מעולם לא היה זמן טוב יותר להתחיל להשתמש ב־XMPP**, רשת צ'אט ציבורית וחופשית שאיש אינו שולט בה או מחזיק בבעלות עליה. Monal היא דרך מהירה ונוחה להשתמש ב־XMPP. פשוט הורידו את האפליקציה, התחברו או הירשמו, ותוך דקות תהיו מוכנים לשוחח. המראה והפעולה שלה דומים לאפליקציות אחרות, כך שאין צורך «ללמוד XMPP» או אפילו להתעניין במה שהוא.
+There has never been a better time to get into XMPP, a free public chat network no one controls or owns. Monal is a fast and user friendly way to use XMPP. Just download the app,  login or register and you are ready to chat in minutes. It looks and works the way other apps do, so there is no need to “learn XMPP” or even care what it is.
 
-**תכונות עיקריות:**
-* קוד פתוח
-* ללא פרסומות! דגש חזק על פרטיות. אינו שולח מידע למפתחים ואינו כולל «מדדי תוכנה».
-* אינו קורא מידע אישי כלשהו.
-* בחיבור ישיר לשרת שלכם, הסיסמה שלכם וכל מידע אחר לעולם אינם נשלחים לצד שלישי.
-* צ'אט מוצפן באמצעות OMEMO.
-* עובד עם שרתי XMPP ארגוניים הדורשים VPN.
-* תמיכה בצ'אטים מרובי משתמשים (MUC) לשיחות קבוצתיות.
-* שיחות שמע ווידאו.
+Notable features:
+- Open Source
+- No Ads! Strong focus on privacy. Does not phone home and does not have software "metrics" 
+- Does not read any personal information
+- With a direct connection to your server, your password and all other info are never sent to a third-party
+- OMEMO encrypted chat
+- Will work with corporate XMPP servers that require VPN
+- Multi user chat (MUC) support for group chats
+- Audio/Video calls
 
-**מיישם הרחבות XMPP מסוימות שנועדו לשפר את התקשורת במכשירים ניידים:**
-* **XEP-0357:** התראות Push.
-* **XEP-0280:** *Message Carbons* לשמירת סנכרון של הודעות בין לקוחות.
-* **XEP-0198:** *Stream Management* לחיבור מחדש מהיר.
-* **XEP-0199:** *XMPP Ping* לשמירת חיבורים פעילים.
-* **XEP-0313:** *Message Archive Management* להורדת היסטוריית שיחות.
-* **XEP-0352:** *Client State Indication* להפחתה משמעותית בצריכת החשמל.
-* **XEP-0363:** העלאת קבצים, לשליחת תמונות בשיחות
+Implements certain XMPP extensions intended to improve mobile communication:
+- XEP-0357: Push Notifications
+- XEP-0280: Message Carbons keep messages in synch between clients
+- XEP-0198: Stream Management to quickly reconnect
+- XEP-0199: XMPP Ping to maintain connections
+- XEP-0313: Message Archive Management to download chat history
+- XEP-0352: Client State Indication for dramatic reduction on power use
+- XEP-0363: HTTP File Upload to send images in conversations
