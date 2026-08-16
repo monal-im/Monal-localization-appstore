@@ -1,1 +1,1 @@
-xmpp, jabber, chat, mensajería instantánea, mensajería, ejabberd, Prosody, OMEMO
+xmpp, jabber, chat, instant messaging, messaging, ejabberd, prosody, OMEMO
