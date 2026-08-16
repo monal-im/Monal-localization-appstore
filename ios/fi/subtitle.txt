@@ -1,1 +1,1 @@
-XMPP-viestisovellus
+Open source XMPP Messenger
