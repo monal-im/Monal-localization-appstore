@@ -1,1 +1,1 @@
-Msj XMPP de código abierto
+Open source XMPP Messenger
