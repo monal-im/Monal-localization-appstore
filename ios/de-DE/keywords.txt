@@ -1,1 +1,1 @@
-XMMP,Jabber, Chat, Messenger, Instant Messaging, Messaging, Ejabberd, Prosody, OMEMO
+XMMP, Jabber, Chat, Messenger, Instant Messaging, Messaging, Ejabberd, Prosody, OMEMO
