@@ -1,20 +1,20 @@
-There has never been a better time to get into XMPP, a free public chat network no one controls or owns. Monal is a fast and user friendly way to use XMPP. Just download the app,  login or register and you are ready to chat in minutes. It looks and works the way other apps do, so there is no need to “learn XMPP” or even care what it is.
+XMPP（誰も管理も所有もしていない無料の公開チャットネットワーク）を始めるのに、今ほど良い時期はありません。Monalは、XMPPを高速かつ使いやすく利用できるアプリです。アプリをダウンロードして、ログインまたは登録するだけで、数分でチャットを始められます。他のアプリと同じような見た目と操作性なので、「XMPPを学ぶ」必要も、XMPPが何なのかを気にする必要もありません。
 
-Notable features:
-- Open Source
-- No Ads! Strong focus on privacy. Does not phone home and does not have software "metrics" 
-- Does not read any personal information
-- With a direct connection to your server, your password and all other info are never sent to a third-party
-- OMEMO encrypted chat
-- Will work with corporate XMPP servers that require VPN
-- Multi user chat (MUC) support for group chats
-- Audio/Video calls
+主な機能：
+-オープンソース
+-広告なし！プライバシーを重視しています。外部に情報を送信することはなく、ソフトウェアの「利用統計」も収集しません。
+-個人情報を一切読み取りません。
+-サーバーに直接接続するため、パスワードやその他の情報が第三者に送信されることはありません。
+-OMEMOによる暗号化チャット
+-VPNを必要とする企業のXMPPサーバーでも利用できます。
+-グループチャット用のマルチユーザーチャット（MUC）に対応
+-音声・ビデオ通話
 
-Implements certain XMPP extensions intended to improve mobile communication:
-- XEP-0357: Push Notifications
-- XEP-0280: Message Carbons keep messages in synch between clients
-- XEP-0198: Stream Management to quickly reconnect
-- XEP-0199: XMPP Ping to maintain connections
-- XEP-0313: Message Archive Management to download chat history
-- XEP-0352: Client State Indication for dramatic reduction on power use
-- XEP-0363: HTTP File Upload to send images in conversations
+モバイル通信を改善するための、以下のXMPP拡張機能にも対応しています：
+-XEP-0357：プッシュ通知
+-XEP-0280：Message Carbons。クライアント間でメッセージを同期します。
+-XEP-0198：Stream Management。素早く再接続できるようにします。
+-XEP-0199：XMPP Ping。接続を維持します。
+-XEP-0313：Message Archive Management。チャット履歴をダウンロードします。
+-XEP-0352：Client State Indication。電力消費を大幅に削減します。
+-XEP-0363：HTTP File Upload。会話中に画像を送信できます
