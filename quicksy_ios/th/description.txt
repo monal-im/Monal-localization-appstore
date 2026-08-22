@@ -1,5 +1,5 @@
-Quicksy is a spin off of the popular XMPP client Monal with automatic contact discovery.
+Quicksy เป็นแอปที่ต่อยอดมาจาก Monal ซึ่งเป็นไคลเอนต์ XMPP ยอดนิยม โดยมีฟังก์ชันค้นหารายชื่อติดต่อโดยอัตโนมัติ
 
-You sign up with your phone number and Quicksy will automatically — based on the phone numbers in your address book — suggest possible contacts to you. Under the hood Quicksy is a full-fledged XMPP client that lets you communicate with any user on any publicly federating server. Likewise users on Quicksy can be contacted from the outside simply by adding +phonenumber@quicksy.im to your contact list.
+คุณสมัครใช้งานด้วยหมายเลขโทรศัพท์ของคุณ และ Quicksy จะใช้หมายเลขโทรศัพท์ในสมุดรายชื่อของคุณเพื่อแนะนำบุคคลที่อาจเป็นรายชื่อติดต่อของคุณโดยอัตโนมัติ เบื้องหลังนั้น Quicksy เป็นไคลเอนต์ XMPP เต็มรูปแบบที่ช่วยให้คุณสื่อสารกับผู้ใช้ใด ๆ บนเซิร์ฟเวอร์ที่รองรับการเชื่อมต่อระหว่างเซิร์ฟเวอร์แบบสาธารณะได้ ในทำนองเดียวกัน ผู้ใช้ Quicksy สามารถรับการติดต่อจากภายนอกได้ เพียงเพิ่ม +phonenumber@quicksy.im ลงในรายชื่อติดต่อของคุณ
 
-Aside from the contact sync the user interface is deliberately as close to Monal as possible. This allows users to eventually migrate from Quicksy to Monal without having to relearn how the app works.
+นอกเหนือจากการซิงค์รายชื่อติดต่อแล้ว ส่วนติดต่อผู้ใช้ได้รับการออกแบบให้ใกล้เคียงกับ Monal มากที่สุด วิธีนี้ช่วยให้ผู้ใช้สามารถย้ายจาก Quicksy ไปยัง Monal ได้ในภายหลัง โดยไม่ต้องเรียนรู้วิธีใช้งานแอปใหม่อีกครั้ง
