@@ -1,20 +1,20 @@
-No hi ha hagut mai un moment millor per començar a utilitzar XMPP, una xarxa pública de xat gratuïta que ningú controla ni posseeix. Monal és una manera ràpida i fàcil d'utilitzar XMPP. Només cal descarregar l'aplicació, iniciar sessió o registrar-se i ja estaràs preparat per xatejar en qüestió de minuts. Té l'aspecte i funciona com altres aplicacions, de manera que no cal «aprendre XMPP» ni tan sols preocupar-se per què és.
+No hi ha hagut mai un moment millor per endinsar-se en XMPP, una xarxa pública de xat gratuïta que ningú controla ni posseeix. Monal és una manera ràpida i fàcil d’utilitzar XMPP. Només cal descarregar l’aplicació, iniciar sessió o registrar-se i estaràs a punt per xatejar en qüestió de minuts. Té l’aspecte i funciona com les altres aplicacions, de manera que no cal «aprendre XMPP» ni tan sols preocupar-se per saber què és.
 
-Característiques destacades:
+Funcions destacades:
 -Codi font obert
--Sense anuncis! Gran enfocament en la privadesa. No envia dades a cap servidor extern ni disposa de «mètriques» de programari.
--No llegeix cap informació personal.
--Amb una connexió directa amb el teu servidor, la teva contrasenya i tota la resta d'informació no s'envien mai a tercers.
--Xat xifrat amb OMEMO.
--Funciona amb servidors XMPP corporatius que requereixen VPN.
--Suport per a xats multiusuari (MUC) per als xats de grup.
--Trucades d'àudio/vídeo.
+-Sense anuncis! Gran èmfasi en la privadesa. No es comunica amb servidors externs ni recopila «mètriques» de programari
+-No llegeix cap informació personal
+-Amb una connexió directa amb el teu servidor, la teva contrasenya i tota la resta d’informació no s’envien mai a tercers
+-Xats xifrats amb OMEMO
+-Funciona amb servidors XMPP corporatius que requereixen VPN
+-Compatibilitat amb xats multiusuari (MUC) per a converses de grup
+-Trucades d’àudio/vídeo
 
 Implementa determinades extensions XMPP destinades a millorar la comunicació mòbil:
--XEP-0357: notificacions push.
--XEP-0280: Message Carbons, que mantenen els missatges sincronitzats entre els clients.
--XEP-0198: gestió de fluxos per reconnectar-se ràpidament.
--XEP-0199: XMPP Ping per mantenir les connexions.
--XEP-0313: gestió de l'arxiu de missatges per descarregar l'historial dels xats.
--XEP-0352: indicació de l'estat del client per reduir dràsticament el consum d'energia.
--XEP-0363: càrrega de fitxers mitjançant HTTP per enviar imatges en les converses
+-XEP-0357: Notificacions push
+-XEP-0280: Message Carbons per mantenir els missatges sincronitzats entre clients
+-XEP-0198: Gestió de fluxos per tornar a connectar-se ràpidament
+-XEP-0199: XMPP Ping per mantenir les connexions
+-XEP-0313: Gestió de l’arxivament de missatges per descarregar l’historial dels xats
+-XEP-0352: Indicació de l’estat del client per reduir dràsticament el consum d’energia
+-XEP-0363: Càrrega de fitxers mitjançant HTTP per enviar imatges a les converses
