@@ -1,20 +1,20 @@
-Neexistuje lepší doba, kdy začít používat XMPP, bezplatnou veřejnou chatovací síť, kterou nikdo nekontroluje ani nevlastní. Monal je rychlý a uživatelsky přívětivý způsob, jak používat XMPP. Stačí si stáhnout aplikaci, přihlásit se nebo zaregistrovat a během několika minut můžete začít chatovat. Vypadá a funguje stejně jako jiné aplikace, takže není třeba se „učit XMPP“ ani se starat o to, co to vlastně je.
+Nikdy nebyla lepší doba začít používat XMPP, bezplatnou veřejnou chatovací síť, kterou nikdo nekontroluje ani nevlastní. Monal je rychlý a uživatelsky přívětivý způsob, jak používat XMPP. Stačí si stáhnout aplikaci, přihlásit se nebo zaregistrovat a během několika minut můžete začít chatovat. Vypadá a funguje jako jiné aplikace, takže není potřeba se „učit XMPP“ ani se starat o to, co vlastně je.
 
-Významné funkce:
+Pozoruhodné funkce:
 -Open Source
--Žádné reklamy! Silný důraz na ochranu soukromí. Neodesílá data zpět na své servery a neobsahuje žádné softwarové „metriky“.
+-Žádné reklamy! Silný důraz na soukromí. Neodesílá informace domů a nemá žádné softwarové „metriky“
 -Nečte žádné osobní údaje
--Díky přímému připojení k vašemu serveru se vaše heslo ani žádné další informace nikdy neodesílají třetí straně
--Šifrované chatování pomocí OMEMO
+-Díky přímému připojení k vašemu serveru nejsou vaše heslo ani žádné další informace nikdy odesílány třetí straně
+-Chatování šifrované pomocí OMEMO
 -Funguje s firemními XMPP servery, které vyžadují VPN
 -Podpora víceuživatelských chatů (MUC) pro skupinové chaty
 -Audio/video hovory
 
 Implementuje některá rozšíření XMPP určená ke zlepšení mobilní komunikace:
 -XEP-0357: Push notifikace
--XEP-0280: Message Carbons pro synchronizaci zpráv mezi klienty
+-XEP-0280: Message Carbons udržují zprávy synchronizované mezi klienty
 -XEP-0198: Správa streamu pro rychlé opětovné připojení
 -XEP-0199: XMPP Ping pro udržování připojení
 -XEP-0313: Správa archivu zpráv pro stažení historie chatu
 -XEP-0352: Indikace stavu klienta pro výrazné snížení spotřeby energie
--XEP-0363: Nahrávání souborů prostřednictvím HTTP pro odesílání obrázků v konverzacích
+-XEP-0363: Nahrávání souborů přes HTTP pro odesílání obrázků v konverzacích
