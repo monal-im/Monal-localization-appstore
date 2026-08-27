@@ -2,7 +2,7 @@ Nunca houve melhor altura para aderir ao XMPP, uma rede pública e gratuita de c
 
 Funcionalidades de destaque:
 -Código aberto
--Sem anúncios! Forte enfoque na privacidade. Não comunica com servidores externos sem necessidade e não possui «métricas» de utilização do software.
+-Sem anúncios! Forte enfoque na privacidade. Não comunica com servidores externos sem necessidade e não possui «métricas» de utilização do software
 -Não lê quaisquer informações pessoais
 -Com uma ligação direta ao seu servidor, a sua palavra-passe e todas as outras informações nunca são enviadas para terceiros
 -Conversas encriptadas com OMEMO
