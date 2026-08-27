@@ -1,20 +1,20 @@
-XMPP'ye yönelmek için hiç bu kadar iyi bir zaman olmamıştı. XMPP, hiç kimsenin kontrol etmediği veya sahip olmadığı, ücretsiz ve herkese açık bir sohbet ağıdır. Monal, XMPP'yi kullanmanın hızlı ve kullanıcı dostu bir yoludur. Uygulamayı indirmeniz, giriş yapmanız veya kaydolmanız yeterlidir; birkaç dakika içinde sohbet etmeye hazır olursunuz. Diğer uygulamalar gibi görünür ve çalışır, bu nedenle «XMPP'yi öğrenmenize» veya bunun ne olduğunu önemsemenize bile gerek yoktur.
+Daha önce XMPP’ye başlamak için bundan daha iyi bir zaman olmamıştı. XMPP, hiç kimsenin kontrol etmediği veya sahip olmadığı, ücretsiz ve herkese açık bir sohbet ağıdır. Monal, XMPP’yi kullanmanın hızlı ve kullanıcı dostu bir yoludur. Uygulamayı indirmeniz, giriş yapmanız veya kaydolmanız yeterli; birkaç dakika içinde sohbet etmeye hazırsınız. Diğer uygulamalar gibi görünür ve çalışır, dolayısıyla “XMPP öğrenmenize” veya bunun ne olduğunu önemsemenize bile gerek yoktur.
 
 Öne çıkan özellikler:
--Açık kaynaklı
--Reklamsız! Gizliliğe güçlü bir şekilde odaklanır. Geliştiricilere bilgi göndermez ve yazılım «metriklerine» sahip değildir
--Kişisel hiçbir bilgiyi okumaz.
--Sunucunuza doğrudan bağlantıyla parolanız ve diğer tüm bilgileriniz hiçbir zaman üçüncü taraflara gönderilmez
--OMEMO ile şifrelenmiş sohbet.
--VPN gerektiren kurumsal XMPP sunucularıyla çalışır.
--Grup sohbetleri için çok kullanıcılı sohbet (MUC) desteği.
--Sesli/görüntülü aramalar.
+-Açık kaynak
+-Reklamsız! Gizliliğe büyük önem verir. Ana sunucuya bilgi göndermez ve yazılım “metrikleri” toplamaz
+-Kişisel bilgilerin hiçbirini okumaz
+-Sunucunuza doğrudan bağlantıyla, parolanız ve diğer tüm bilgileriniz hiçbir zaman üçüncü taraflara gönderilmez
+-OMEMO şifreli sohbet
+-VPN gerektiren kurumsal XMPP sunucularıyla çalışır
+-Grup sohbetleri için çok kullanıcılı sohbet (MUC) desteği
+-Sesli/Görüntülü aramalar
 
-Mobil iletişimi geliştirmek amacıyla tasarlanmış belirli XMPP uzantılarını destekler:
--XEP-0357: Anlık bildirimler
--XEP-0280: Mesaj Karbonları (Message Carbons), mesajları istemciler arasında senkronize tutar
--XEP-0198: Akış Yönetimi (Stream Management), hızlı bir şekilde yeniden bağlanmayı sağlar
--XEP-0199: Bağlantıları etkin tutmak için XMPP Ping
--XEP-0313: Mesaj Arşivi Yönetimi (Message Archive Management), sohbet geçmişini indirmek için
--XEP-0352: İstemci Durumu Göstergesi (Client State Indication), güç tüketimini büyük ölçüde azaltır
--XEP-0363: Dosya yükleme, konuşmalarda görüntü göndermek için
+Mobil iletişimi iyileştirmeye yönelik belirli XMPP uzantılarını destekler:
+-XEP-0357: Anlık Bildirimler
+-XEP-0280: Mesaj Carbons, mesajları istemciler arasında senkronize tutar
+-XEP-0198: Hızlı yeniden bağlanma için Akış Yönetimi
+-XEP-0199: Bağlantıları sürdürmek için XMPP Ping
+-XEP-0313: Sohbet geçmişini indirmek için Mesaj Arşivi Yönetimi
+-XEP-0352: Güç tüketimini önemli ölçüde azaltmak için İstemci Durumu Bildirimi
+-XEP-0363: Görüşmelerde resim göndermek için HTTP Dosya Yükleme
