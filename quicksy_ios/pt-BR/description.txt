@@ -1,5 +1,5 @@
-O Quicksy é uma versão derivada do popular cliente XMPP Monal, com descoberta automática de contatos.
+Quicksy é uma variação do conhecido cliente XMPP Monal com descoberta automática de contatos.
 
-Você se cadastra com seu número de telefone e o Quicksy irá automaticamente — com base nos números de telefone da sua agenda — sugerir possíveis contatos. Por baixo da interface, o Quicksy é um cliente XMPP completo que permite que você se comunique com qualquer usuário em qualquer servidor com federação pública. Da mesma forma, os usuários do Quicksy podem ser contatados externamente simplesmente adicionando +número@quicksy.im à sua lista de contatos.
+Você se registra utilizando seu número de telefone e o Quicksy irá automaticamente sugerir contatos baseados na sua lista de contatos. Debaixo do capô, o Quicksy é um cliente XMPP completo que permite comunicar com qualquer usuário em qualquer outro serviço XMPP publicamente federado. Assim como usuários no Quicky podem ser contatatos de outros serviços XMPP simplesmente utilizando o identificador +número-de-telefone@quicksy.im em sua lista de contatos.
 
-Além da sincronização de contatos, a interface foi deliberadamente mantida o mais próxima possível do Monal. Isso permite que os usuários possam, eventualmente, migrar do Quicksy para o Monal sem precisar reaprender como o aplicativo funciona.
+Fora a questão da sincronização de contatos, a interface de usuário é deliberadamente semelhante à do Monal. Isso permite que usuários eventualmente migrem do Quicky para o Monal sem precisar reaprender como o aplicativo funciona.
