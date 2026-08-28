@@ -1,1 +1,1 @@
-XMPP, Jabber, 채팅, 인스턴트 메시징, 메시징, ejabberd, Prosody, OMEMO
+xmpp, jabber, chat, instant messaging, messaging, ejabberd, prosody, OMEMO
