@@ -1,20 +1,20 @@
-Tiada masa yang lebih baik untuk mula menggunakan XMPP, rangkaian sembang awam percuma yang tidak dikawal atau dimiliki oleh sesiapa. Monal ialah cara yang pantas dan mesra pengguna untuk menggunakan XMPP. Hanya muat turun aplikasi, log masuk atau daftar dan anda sudah bersedia untuk bersembang dalam masa beberapa minit. Ia kelihatan dan berfungsi seperti aplikasi lain, jadi anda tidak perlu “mempelajari XMPP” atau mengambil tahu tentangnya.
+There has never been a better time to get into XMPP, a free public chat network no one controls or owns. Monal is a fast and user friendly way to use XMPP. Just download the app,  login or register and you are ready to chat in minutes. It looks and works the way other apps do, so there is no need to “learn XMPP” or even care what it is.
 
-Ciri-ciri utama:
--Sumber terbuka
--Tiada iklan! Sangat menitikberatkan privasi. Tidak menghantar maklumat kembali ke pelayan dan tidak mempunyai "metrik" perisian
--Tidak membaca sebarang maklumat peribadi
--Dengan sambungan terus ke pelayan anda, kata laluan dan semua maklumat lain tidak pernah dihantar kepada pihak ketiga
--Sembang disulitkan dengan OMEMO
--Berfungsi dengan pelayan XMPP korporat yang memerlukan VPN
--Sokongan sembang berbilang pengguna (MUC) untuk sembang berkumpulan
--Panggilan audio/video
+Notable features:
+- Open Source
+- No Ads! Strong focus on privacy. Does not phone home and does not have software "metrics" 
+- Does not read any personal information
+- With a direct connection to your server, your password and all other info are never sent to a third-party
+- OMEMO encrypted chat
+- Will work with corporate XMPP servers that require VPN
+- Multi user chat (MUC) support for group chats
+- Audio/Video calls
 
-Melaksanakan beberapa sambungan XMPP yang bertujuan untuk meningkatkan komunikasi mudah alih:
--XEP-0357: Pemberitahuan Tolak
--XEP-0280: Message Carbons memastikan mesej disegerakkan antara klien
--XEP-0198: Pengurusan Strim untuk menyambung semula dengan pantas
--XEP-0199: XMPP Ping untuk mengekalkan sambungan
--XEP-0313: Pengurusan Arkib Mesej untuk memuat turun sejarah sembang
--XEP-0352: Petunjuk Keadaan Klien untuk mengurangkan penggunaan kuasa dengan ketara
--XEP-0363: Muat Naik Fail HTTP untuk menghantar imej dalam perbualan
+Implements certain XMPP extensions intended to improve mobile communication:
+- XEP-0357: Push Notifications
+- XEP-0280: Message Carbons keep messages in synch between clients
+- XEP-0198: Stream Management to quickly reconnect
+- XEP-0199: XMPP Ping to maintain connections
+- XEP-0313: Message Archive Management to download chat history
+- XEP-0352: Client State Indication for dramatic reduction on power use
+- XEP-0363: HTTP File Upload to send images in conversations
