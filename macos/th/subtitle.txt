@@ -1,1 +1,1 @@
-แอปส่งข้อความ XMPP โอเพนซอร์ส
+Open source XMPP Messenger
