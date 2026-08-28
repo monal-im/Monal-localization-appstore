@@ -1,1 +1,1 @@
-Mensageiro XMPP open source
+Open source XMPP Messenger
