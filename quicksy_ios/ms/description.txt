@@ -1,5 +1,5 @@
-Quicksy ialah cabang daripada klien XMPP popular Monal yang dilengkapi dengan penemuan kenalan secara automatik.
+Quicksy ialah spin-off daripada klien XMPP popular Monal dengan penemuan kenalan secara automatik.
 
-Anda mendaftar menggunakan nombor telefon dan Quicksy akan mencadangkan kenalan yang berpotensi kepada anda secara automatik — berdasarkan nombor telefon dalam buku alamat anda. Di sebalik tabir, Quicksy ialah klien XMPP sepenuhnya yang membolehkan anda berkomunikasi dengan mana-mana pengguna di mana-mana pelayan yang bersekutu secara awam. Begitu juga, pengguna Quicksy boleh dihubungi dari luar hanya dengan menambahkan +nombortelefon@quicksy.im ke dalam senarai kenalan anda.
+Anda mendaftar menggunakan nombor telefon dan Quicksy akan secara automatik — berdasarkan nombor telefon dalam buku alamat anda — mencadangkan kenalan yang berkemungkinan anda kenali. Di sebalik tabir, Quicksy ialah klien XMPP lengkap yang membolehkan anda berkomunikasi dengan mana-mana pengguna pada mana-mana pelayan yang berfederasi secara awam. Begitu juga, pengguna Quicksy boleh dihubungi dari luar dengan hanya menambahkan +phonenumber@quicksy.im ke dalam senarai kenalan anda.
 
-Selain penyegerakan kenalan, antara muka pengguna sengaja direka sedekat mungkin dengan Monal. Ini membolehkan pengguna akhirnya beralih daripada Quicksy kepada Monal tanpa perlu mempelajari semula cara aplikasi ini berfungsi.
+Selain daripada penyegerakan kenalan, antara muka pengguna sengaja direka supaya sedekat mungkin dengan Monal. Ini membolehkan pengguna berpindah daripada Quicksy ke Monal pada masa hadapan tanpa perlu mempelajari semula cara aplikasi ini berfungsi.
