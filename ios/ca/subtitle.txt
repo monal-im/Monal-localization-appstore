@@ -1,1 +1,1 @@
-Missatger XMPP de codi obert
+Open source XMPP Messenger
