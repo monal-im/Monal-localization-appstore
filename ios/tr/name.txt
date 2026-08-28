@@ -1,1 +1,1 @@
-XMPP Sohbet
+Monal — XMPP Chat
