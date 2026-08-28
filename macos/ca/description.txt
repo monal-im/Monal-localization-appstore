@@ -1,20 +1,20 @@
-No hi ha hagut mai un moment millor per endinsar-se en XMPP, una xarxa pública de xat gratuïta que ningú controla ni posseeix. Monal és una manera ràpida i fàcil d’utilitzar XMPP. Només cal descarregar l’aplicació, iniciar sessió o registrar-se i estaràs a punt per xatejar en qüestió de minuts. Té l’aspecte i funciona com les altres aplicacions, de manera que no cal «aprendre XMPP» ni tan sols preocupar-se per saber què és.
+There has never been a better time to get into XMPP, a free public chat network no one controls or owns. Monal is a fast and user friendly way to use XMPP. Just download the app,  login or register and you are ready to chat in minutes. It looks and works the way other apps do, so there is no need to “learn XMPP” or even care what it is.
 
-Funcions destacades:
--Codi font obert
--Sense anuncis! Gran èmfasi en la privadesa. No es comunica amb servidors externs ni recopila «mètriques» de programari
--No llegeix cap informació personal
--Amb una connexió directa amb el teu servidor, la teva contrasenya i tota la resta d’informació no s’envien mai a tercers
--Xats xifrats amb OMEMO
--Funciona amb servidors XMPP corporatius que requereixen VPN
--Compatibilitat amb xats multiusuari (MUC) per a converses de grup
--Trucades d’àudio/vídeo
+Notable features:
+- Open Source
+- No Ads! Strong focus on privacy. Does not phone home and does not have software "metrics" 
+- Does not read any personal information
+- With a direct connection to your server, your password and all other info are never sent to a third-party
+- OMEMO encrypted chat
+- Will work with corporate XMPP servers that require VPN
+- Multi user chat (MUC) support for group chats
+- Audio/Video calls
 
-Implementa determinades extensions XMPP destinades a millorar la comunicació mòbil:
--XEP-0357: Notificacions push
--XEP-0280: Message Carbons per mantenir els missatges sincronitzats entre clients
--XEP-0198: Gestió de fluxos per tornar a connectar-se ràpidament
--XEP-0199: XMPP Ping per mantenir les connexions
--XEP-0313: Gestió de l’arxivament de missatges per descarregar l’historial dels xats
--XEP-0352: Indicació de l’estat del client per reduir dràsticament el consum d’energia
--XEP-0363: Càrrega de fitxers mitjançant HTTP per enviar imatges a les converses
+Implements certain XMPP extensions intended to improve mobile communication:
+- XEP-0357: Push Notifications
+- XEP-0280: Message Carbons keep messages in synch between clients
+- XEP-0198: Stream Management to quickly reconnect
+- XEP-0199: XMPP Ping to maintain connections
+- XEP-0313: Message Archive Management to download chat history
+- XEP-0352: Client State Indication for dramatic reduction on power use
+- XEP-0363: HTTP File Upload to send images in conversations
