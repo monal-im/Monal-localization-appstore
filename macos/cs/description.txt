@@ -8,7 +8,6 @@ Klíčové vlastnosti:
 - konverzace šifrované pomocí OMEMO
 - kompatibilní s korporátními XMPP servery, které vyžadují VPN
 - podpora pro skupinové konverzace formou MUC (multi-user chat)
-- audio/video hovory
 
 Implementováno je několik rozšíření XMPP navržených pro zlepšení mobilního fungování:
 - XEP-0357: Push Notifications

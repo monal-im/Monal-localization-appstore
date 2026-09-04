@@ -8,7 +8,6 @@ Notable features:
 - OMEMO encrypted chat
 - Will work with corporate XMPP servers that require VPN
 - Multi user chat (MUC) support for group chats
-- Audio/Video calls
 
 Implements certain XMPP extensions intended to improve mobile communication:
 - XEP-0357: Push Notifications

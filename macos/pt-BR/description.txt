@@ -8,7 +8,6 @@ Características notáveis:
 - Criptografia ponta a ponta com OMEMO
 - Funciona com servidores XMPP corporativos que demandam uso de VPN
 - Suporte a Multi user chat (MUC)
-- Chamadas de Áudio/Vídeo
 
 Implementa algumas extensões XMPP que melhoram a experiência de comunicação:
 - XEP-0357: Push Notifications
